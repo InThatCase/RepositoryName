@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AvisTest/Testing.unity
+- path: Assets/AvisTest/Test.unity
   isLoaded: 1
   isActive: 1
